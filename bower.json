@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-async-test",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rodrigo-morais/jasmine-async-test",
+  "authors": [
+    "Rodrigo Morais <morais.rm@gmail.com>"
+  ],
+  "description": "POC to test AJAX calls with Jasmine.",
+  "main": "app/app.js",
+  "moduleType": [],
+  "keywords": [
+    "AJAX",
+    "Jasmine",
+    "test",
+    "async"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "jasmine#~2.3.4",
+    "jquery": "~2.1.4"
+  }
+}
